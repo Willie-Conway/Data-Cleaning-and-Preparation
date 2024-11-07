@@ -59,15 +59,19 @@ After cleaning the data, I used **Power BI** to create a set of insightful visua
 2. **🌍 Map Chart: Layoffs by Country**  
    - A map chart displays the total layoffs by country, enabling a geographic view of mass layoffs.
    - This helps identify regions with the highest concentration of layoffs and visualize global trends.
+![Map Chart](https://github.com/Willie-Conway/Data-Cleaning-and-Preparation/blob/223d58b3c5e76d8cd6e5161e343ec185cc202db6/Project/Screenshot%202024-11-07%20004618.png)
 
 3. **📊 Summary Card: Total Layoffs (1.03M)**  
    - A **card visual** was used to display the total number of layoffs across all years and industries, which came to **1.03 million**.
    - This provides a quick summary of the data for stakeholders.
 
 4. **📊 Dashboard: Considated View** 
-   - A consolidated view of all three visualizations in the **Power BI Dashboard**. This dashboard combines the **line chart** 📈, 
-     **map chart** 🌍, and **summary card** 🗂 into a comprehensive, interactive interface for stakeholders to explore layoffs trends, 
-     geographic distribution, and overall totals.
+   - A consolidated view of all three visualizations in the **Power BI Dashboard**. This dashboard combines the **line 
+     chart** 📈, **map chart** 🌍, and **summary card** 🗂 into a comprehensive, interactive interface for stakeholders to 
+     explore layoffs trends, geographic distribution, and overall totals.
+
+![Interactive Chart](https://github.com/Willie-Conway/Data-Cleaning-and-Preparation/blob/223d58b3c5e76d8cd6e5161e343ec185cc202db6/Project/Screenshot%202024-11-04%20024536.png)
+
 
 ## 💻 Code Explanation
 
