@@ -54,6 +54,7 @@ After cleaning the data, I used **Power BI** to create a set of insightful visua
 1. **📈 Line Chart: Company Layoffs by Year and Industry**  
    - This line chart visualizes the number of layoffs across the years (2020-2024) and the industries most affected by layoffs.
    - It helps to identify trends in layoffs by industry and across different years.
+![Line Chart](https://github.com/Willie-Conway/Data-Cleaning-and-Preparation/blob/7fd5f2473935251c79069134102d24aeee4d484b/Project/Screenshot%202024-11-04%20024517.png)
 
 2. **🌍 Map Chart: Layoffs by Country**  
    - A map chart displays the total layoffs by country, enabling a geographic view of mass layoffs.
