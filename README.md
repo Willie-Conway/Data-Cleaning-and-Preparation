@@ -161,7 +161,7 @@ conn.close()
 3. **Place the `layoffs_2024.csv` file in the `csv/` directory**.
 4. **Run the Python script to clean the dataset**:
     ```bash
-    python clean_layoffs_data.py
+    python Data_Cleaning_and_Preparation.py
     ```
 5. **Import the cleaned dataset (`cleaned_layoffs_2024.csv`) into **Power BI** for visualization**.
 
