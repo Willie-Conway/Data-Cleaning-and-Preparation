@@ -63,6 +63,11 @@ After cleaning the data, I used **Power BI** to create a set of insightful visua
    - A **card visual** was used to display the total number of layoffs across all years and industries, which came to **1.03 million**.
    - This provides a quick summary of the data for stakeholders.
 
+4. **📊 Dashboard: Considated View** 
+   - A consolidated view of all three visualizations in the **Power BI Dashboard**. This dashboard combines the **line chart** 📈, 
+     **map chart** 🌍, and **summary card** 🗂 into a comprehensive, interactive interface for stakeholders to explore layoffs trends, 
+     geographic distribution, and overall totals.
+
 ## 💻 Code Explanation
 
 Below is a summary of the key Python code used for cleaning the data:
