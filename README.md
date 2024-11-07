@@ -72,6 +72,10 @@ After cleaning the data, I used **Power BI** to create a set of insightful visua
 
 ![Interactive Chart](https://github.com/Willie-Conway/Data-Cleaning-and-Preparation/blob/223d58b3c5e76d8cd6e5161e343ec185cc202db6/Project/Screenshot%202024-11-04%20024536.png)
 
+  # 📹 Demo Video
+
+  <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ef49067b43da4e19ba14152b7a50e69a?sid=894d3f6a-2680-4c0e-a1e9-32fa38dcf666" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ## 💻 Code Explanation
 
